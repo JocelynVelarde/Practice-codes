@@ -1,3 +1,4 @@
+//The daughter class of store that inherits all the attributes and methods to represent a coffee shop 
 package store;
 public class CaffeShop extends store {
 
