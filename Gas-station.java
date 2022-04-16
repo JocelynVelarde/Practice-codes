@@ -1,3 +1,4 @@
+//using methods, seters, geters and specified attributes I was able to represent a gas station
 import java.util.Scanner;
 
 public class GasTanki {
