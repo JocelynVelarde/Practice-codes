@@ -1,3 +1,4 @@
+//Represents a wizzard consult that randonmly selects phrases
 package merlin;
 
 public class Merlin {
