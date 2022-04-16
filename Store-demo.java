@@ -1,3 +1,4 @@
+//Demo of the store class 
 package store;
 
 public class StoreDemo {
