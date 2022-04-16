@@ -1,3 +1,4 @@
+//A demo for the spaceship class
 public class MainSpaceShip {
     public static void main(String[] args) {
         SpaceShip nave1, nave2; 
