@@ -1,3 +1,4 @@
+//Represents how a spaceshio works using a constructor, geters, seters and specified attributes plus methods
 public class SpaceShip {
   private String shipName;
   private int passengerCount;
