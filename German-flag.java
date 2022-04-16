@@ -1,3 +1,4 @@
+//Using bidimensional arrays I was able to represent the colors of the German flag according to the specified size by the user
 public class germanyflag {
     public static void main(String[] args) {
         createGermanyFlag(1);
