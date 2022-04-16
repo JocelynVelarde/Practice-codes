@@ -1,3 +1,4 @@
+//A class that represents a product from the store class
 package store;
 
 public class Product {
