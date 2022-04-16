@@ -1,3 +1,4 @@
+//Using arrays I was able to create an array according to the user and then identified how much times a number repeated
 public class problemaTresLabUno {
     static int[]lista;
     static boolean number(int num){
