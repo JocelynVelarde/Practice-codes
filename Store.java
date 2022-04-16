@@ -1,3 +1,4 @@
+//The father class that represents how a store works 
 package store;
 
 public class Store {
